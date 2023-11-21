@@ -2,10 +2,6 @@
 
 Instagram Insights is a Streamlit application that allows you to analyze and visualize your Instagram data like users not following you back, users you aren't following back, and more.
 
-# Web App
-Click [Here](https://huggingface.co/spaces/Kaludi/Instagram-Insights-Streamlit_App "Here") To View This App Online!
-
-![image](https://user-images.githubusercontent.com/63890666/227370342-1528acdc-5fdc-4ef9-a3a3-8e0dd3d1677d.png)
 
 ## Features
 
@@ -40,7 +36,6 @@ To install the required libraries, run the following command:
 
 1.  Clone this repository.
 
-`git clone https://github.com/Kaludii/Instagram-Insights.git` 
 
 2.  Navigate to the project directory.
 
